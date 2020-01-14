@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\outlook\\G0180\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\outlook\\G0180\\.nuget\\packages"
+    ]
+  }
+}
